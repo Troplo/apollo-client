@@ -1,0 +1,1 @@
+{"version":3,"file":"maybeDeepFreeze.js","sourceRoot":"","sources":["../../../src/utilities/common/maybeDeepFreeze.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,eAAe,CAAI,GAAM;IACvC,OAAO,GAAG,CAAC;AACb,CAAC","sourcesContent":["export function maybeDeepFreeze<T>(obj: T): T {\n  return obj;\n}\n"]}

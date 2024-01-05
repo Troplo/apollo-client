@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpLink.d.ts","sourceRoot":"","sources":["../../../src/link/http/HttpLink.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,kBAAkB,CAAC;AAC9C,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,+BAA+B,CAAC;AAGjE,qBAAa,QAAS,SAAQ,UAAU;IACnB,OAAO,EAAE,WAAW;gBAApB,OAAO,GAAE,WAAgB;CAG7C"}
